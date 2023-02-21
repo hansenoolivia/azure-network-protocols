@@ -64,7 +64,7 @@ Open the Network Security Group your Ubuntu VM is using and disable incoming (in
 Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity.
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2PvBLsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
 
@@ -76,7 +76,7 @@ Then stop the ping activity.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c8hhOa3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
