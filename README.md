@@ -84,5 +84,23 @@ Then stop the ping activity.
 
 <br />
   
+<h2>Observe SSH Traffic</h2>
+<p>
+  
+<p>
+<img src="https://i.imgur.com/8LaXORS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Back in Wireshark, filter for SSH traffic only.
+
+
+From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address) ->
+Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark.
+  
+<p>
+<img src="hhttps://i.imgur.com/bkkUWTy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
   
 
