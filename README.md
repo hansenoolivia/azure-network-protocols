@@ -102,5 +102,11 @@ Type commands (username, pwd, etc) into the linux SSH connection and observe SSH
 <img src="https://i.imgur.com/bkkUWTy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
+
+<br />
+  
+<h2>Observe DHCP Traffic</h2>
+<p>
+  
   
 
