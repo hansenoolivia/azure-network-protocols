@@ -99,7 +99,7 @@ From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its pri
 Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark.
   
 <p>
-<img src="hhttps://i.imgur.com/bkkUWTy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bkkUWTy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
   
