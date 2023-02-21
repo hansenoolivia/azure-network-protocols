@@ -119,3 +119,14 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter].
 </p>
 <p>  
 
+Back in Wireshark, filter for DHCP traffic only.
+
+
+From your Windows 10 VM, attempt to issue your VM a new IP address from the command line (ipconfig /renew)
+Observe the DHCP traffic appearing in WireShark.
+<br />
+  
+<h2>Observe DNS Traffic</h2>
+<p>
+  
+  
