@@ -109,5 +109,13 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter].
 <h2>Observe DHCP Traffic</h2>
 <p>
   
+ <p>
+<img src="https://i.imgur.com/8MCZp4Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
   
+<p>
+<img src="https://i.imgur.com/NRSDRL1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
 
