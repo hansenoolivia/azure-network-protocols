@@ -127,6 +127,27 @@ Observe the DHCP traffic appearing in WireShark.
 <br />
   
 <h2>Observe DNS Traffic</h2>
+<p> 
+   
 <p>
+<img src="https://i.imgur.com/v0LAtXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+
+Back in Wireshark, filter for DNS traffic only.
+
+
+From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are ->
+Observe the DNS traffic being show in WireShark.
+<br />
+  
+<h2>Observe RDP Traffic</h2> 
+<p>
+  
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+  
   
   
